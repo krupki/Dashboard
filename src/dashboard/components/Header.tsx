@@ -1,3 +1,7 @@
-export const Header = () => (
-<></>
-);
+export const Header = () => {
+  return (
+    <>
+      <header>Dashboard</header>
+    </>
+  );
+};
